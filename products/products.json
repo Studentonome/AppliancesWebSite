@@ -1,0 +1,234 @@
+
+[
+    {
+        "id":"766062",
+        "name":"Haier HW80-BP14979",
+        "type":"washing machine",
+        "value":"1700",
+        "image":"hw80-bp14979-stiralnaya-mashina-haier-1_600.jpg"
+    },
+    {
+        "id":"449377",
+        "name":"LG F2J3WS2W",
+        "type":"washing machine",
+        "value":"1400",
+        "image":"f2j3ws2w-stiralnaya-mashina-lg-1_600.jpg",
+        "outOfStock":"true"
+    },
+    {
+        "id":"455923",
+        "name":"Indesit EWSB 5085 BK CIS",
+        "type":"washing machine",
+        "value":"700",
+        "image":"ewsb-5085-bk-cis-stiralnaya-mashina-indesit-1_600.jpg"
+    },
+    {
+        "id":"944949",
+        "name":"ATLANT СМА-60C1010-00",
+        "type":"washing machine",
+        "value":"894",
+        "image":"sma-60c1010-00-stiralnaya-mashina-atlant-1_600.jpg"
+    },
+    {
+        "id":"935192",
+        "name":"LG F2J6NSGW",
+        "type":"washing machine",
+        "value":"1730",
+        "image":"good_img_b2675e75-a30c-11e9-80c7-005056840c70_600.jpg"
+    },
+    {
+        "id":"387441",
+        "name":"LG Steam F2M5HS6S",
+        "type":"washing machine",
+        "value":"1700",
+        "image":"good_img_01196f6a-232e-11ea-80c7-005056840c70_600.jpg"
+    },
+    {
+        "id":"556159",
+        "name":"Haier HW60-BP12929BS",
+        "type":"washing machine",
+        "value":"1660",
+        "image":"hw60-bp12929bs-stiralnaya-mashina-haier-1_600.jpg"
+    },
+    {
+        "id":"763626",
+        "name":"Samsung WW80AAS21TE/LP",
+        "type":"washing machine",
+        "value":"1780",
+        "image":"ww80aas21te-lp-stiralnaya-mashina-samsung-1_600.jpg"
+    },
+    
+    {
+        "id":"186288",
+        "name":"Samsung RB30A32N0SA/WT",
+        "type":"refrigerator",
+        "value":"1888",
+        "image":"rb30a32n0sa-wt-holodilnik-samsung-1_600.jpg"
+    },
+    {
+        "id":"69169",
+        "name":"HAIER C2F636CFRG",
+        "type":"refrigerator",
+        "value":"2219",
+        "image":"c2f636cfrg-holodilnik-haier-1_600.jpg",
+        "outOfStock":"true"
+    },
+    {
+        "id":"170012",
+        "name":"Indesit ITS 5180 W",
+        "type":"refrigerator",
+        "value":"1269",
+        "image":"its-5180-w-holodilnik-morozilnik-indesit-1_600.jpg"
+    },
+    {
+        "id":"240206",
+        "name":"LG GC-B509SBUM",
+        "type":"refrigerator",
+        "value":"3499",
+        "image":"gc-b509sbum-holodilnik-morozilnik-lg-1_600.jpg"
+    },
+    {
+        "id":"240205",
+        "name":"LG DoorCooling+ GC-B509SLCL",
+        "type":"refrigerator",
+        "value":"2199",
+        "image":"gc-b509slcl-holodilnik-morozilnik-lg-1_600.jpg"
+    },
+    {
+        "id":"228524",
+        "name":"ATLANT ХМ-4623-101",
+        "type":"refrigerator",
+        "value":"1198",
+        "image":"hm-4623-101-holodilnik-atlant-1_600.jpg"
+    },
+    {
+        "id":"166861",
+        "name":"ATLANT XM-4626-109-ND",
+        "type":"refrigerator",
+        "value":"1674",
+        "image":"xm-4626-109-nd-holodilnik-atlant-1_600.jpg"
+    },
+    {
+        "id":"52310",
+        "name":"ATLANT XM-4208-000",
+        "type":"refrigerator",
+        "value":"867",
+        "image":"good_img_9e210bc7-7795-11e7-80eb-005056842056_600.jpg"
+    },
+
+    {
+        "id":"183043",
+        "name":"Horizont GS-14 Gas Stove",
+        "type":"cooking plate",
+        "value":"419",
+        "image":"gs-14-plita-gazovaya-horizont-gas-stove-1_600.jpg"
+    },
+    {
+        "id":"220534",
+        "name":"HORIZONT GS-4W",
+        "type":"cooking plate",
+        "value":"599",
+        "image":"gs-4w-gazovaya-plita-horizont-2_600.jpg"
+    },
+    {
+        "id":"176578",
+        "name":"CEZARIS ПГ 3200-00 (К)",
+        "type":"cooking plate",
+        "value":"549",
+        "image":"pg-3200-00-k-plita-gazovaya-cezaris-1_600.jpg"
+    },
+    {
+        "id":"92093",
+        "name":"Electrolux EKG95010CW",
+        "type":"cooking plate",
+        "value":"1099",
+        "image":"ekg95010cw-gazovaya-plita-s-gaz-duhov-electrolux-1_600.jpg"
+    },
+    {
+        "id":"63033",
+        "name":"HANSA FCGI63022",
+        "type":"cooking plate",
+        "value":"1241",
+        "image":"fcgi63022-plita-gazoelektricheskaya-hansa-1_600.jpg",
+        "outOfStock":"true"
+    },
+    {
+        "id":"21742",
+        "name":"GEFEST ПГ 1200-С6",
+        "type":"cooking plate",
+        "value":"644",
+        "image":"pg-1200-s6-plity-gazovye-bytovye-gefest-1_600.jpg"
+    },
+    {
+        "id":"232861",
+        "name":"Horizont GS-5001W",
+        "type":"cooking plate",
+        "value":"341",
+        "image":"gs-5001w-gazovaya-plita-horizont-1_600.jpg"
+    },
+    {
+        "id":"36694",
+        "name":"GEFEST ПГ 3200-08",
+        "type":"cooking plate",
+        "value":"490",
+        "image":"pg-3200-08-plity-gazovye-bytovye-gefest-1_600.jpg"
+    },
+
+    {
+        "id":"242844",
+        "name":"Midea MFD60S510Bi",
+        "type":"dishwasher",
+        "value":"2169",
+        "image":"mfd60s510bi-posudomoechnaya-mashina-midea-1_600.jpg"
+    },
+    {
+        "id":"246048",
+        "name":"Schaub Lorenz SLG SW6611",
+        "type":"dishwasher",
+        "value":"1049",
+        "image":"LorenzSLG-1_600.jpg",
+        "outOfStock":"true"
+    },
+    {
+        "id":"121279",
+        "name":"Hansa ZWM416WH",
+        "type":"dishwasher",
+        "value":"999",
+        "image":"zwm416wh-posudomoechnaya-mashina-hansa-1_600.jpg"
+    },
+    {
+        "id":"238132",
+        "name":"Korting KDF 60240 N",
+        "type":"dishwasher",
+        "value":"1099",
+        "image":"KortingKDF-1_600.jpg"
+    },
+    {
+        "id":"184984",
+        "name":"Samsung DW50R4050FS/WT",
+        "type":"dishwasher",
+        "value":"1619",
+        "image":"dw50r4050fs-wt-posudomoechnaya-mashina-samsung-1_600.jpg"
+    },
+    {
+        "id":"196689",
+        "name":"Midea MFD45S110Wi",
+        "type":"dishwasher",
+        "value":"1129",
+        "image":"mfd45s110wi-posudomoechnaya-mashina-midea-1_600.jpg"
+    },
+    {
+        "id":"238129",
+        "name":"Korting KDF 45240 S",
+        "type":"dishwasher",
+        "value":"960",
+        "image":"kdf-45240-s-posudomoechnaya-mashina-korting-1_600.jpg"
+    },
+    {
+        "id":"236471",
+        "name":"Weissgauff DW 6035",
+        "type":"dishwasher",
+        "value":"1199",
+        "image":"dw-6035-posudomoechnaya-mashina-weissgauff-1_600.jpg"
+    }
+]

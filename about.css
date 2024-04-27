@@ -1,0 +1,18 @@
+main h2{
+    margin: 7px;
+    text-align: center;
+}
+
+main {margin-bottom: 46px;}
+
+section{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+article{
+    margin: 8px;
+    width: 500px;
+}

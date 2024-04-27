@@ -1,0 +1,156 @@
+*{
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #f1f1f1;
+}
+
+/*nav*/
+
+#up{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #3cb371;
+    padding-left: 6vw;
+    padding-right: 6vw;
+    box-shadow: rgba(0, 0, 0, 0.31) 0px 2px 2px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+#up svg, #up img{
+    width: 36.8px;
+    height: 36.8px;
+}
+
+#up > *{
+    display: inline-block;
+    
+    display: block;
+}
+
+#index{
+    margin-left: 6px;
+    margin-right: 16px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    display: flex;
+}
+
+#index img{
+    margin-right: 10px;
+}
+
+#index *{
+    font-size: 200%;
+    color: white;
+}
+
+/*navmenu*/
+.navmenu{background-color: #3cb371;}
+.drop {padding: 16px;}
+.navelement {
+    font-size: 1.2rem;
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 12px 1px rgba(0, 0, 0, 0.31);
+    z-index: 2;
+}
+.dropdown-content a {
+    padding: 12px;
+    display: block;
+}
+.dropdown-content a:hover {background-color: #ddd;}
+.navelement:hover .dropdown-content {display: block;}
+.navelement .drop:hover {background-color: #3e8e41;}
+.navelement .drop:hover {color: #ffffffe3;}
+
+/* main */
+
+main{
+    padding-left: 8vw;
+    padding-right: 8vw;
+}
+
+main h1{
+    margin-bottom: 8px;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: normal;
+}
+
+/* footer */
+
+footer{
+    padding-left: 8vw;
+    padding-right: 8vw;
+    background-color: rgb(231, 231, 231);
+}
+
+footer ul.social > *{
+    display: inline-block;
+}
+
+footer h2{
+    padding: 8px;
+}
+
+.contacts{
+    display: flex;
+    flex-flow: wrap;
+    justify-content:space-between;
+}
+
+.contacts ul li{
+    padding: 2px;
+    padding-left: 10px;
+}
+
+.contacts > *{
+    margin-right: 50px;
+    color: rgb(7, 7, 7);
+}
+
+.social a{
+    display: block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social svg{
+    fill: rgb(82, 82, 82);
+    width: 40px;
+    height: 40px;
+    transition: 0.2s;
+}
+
+.social  a:hover svg{
+    transition: 0.4s;
+    fill: #000000;
+}
+
+.copyright{
+    margin-top: 20px;
+    padding: 5px;
+}

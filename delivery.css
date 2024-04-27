@@ -1,0 +1,37 @@
+section{
+    border-radius: 2px;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+h2{
+    margin: 5px;
+}
+
+details {
+    padding: 0.5rem 0.5rem 0;
+    margin: 10px;
+    background-color: white;
+    border-radius: 8px;
+}
+summary{
+    font-weight: bold;
+    margin: -0.5rem -0.5rem 0;
+    padding: 0.5rem;
+    background-color: mediumseagreen;
+    color: rgba(255, 255, 255, 0.89);
+    font-size: 120%;
+    cursor: pointer;
+    list-style-type: "\25BC";
+}
+
+details[open]{
+    padding: 0.5rem;
+}
+  
+details[open] summary {
+    list-style-type: "\25B2";
+    border-bottom: 1px solid #aaa;
+    margin-bottom: 0.5rem;
+}
+

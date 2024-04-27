@@ -1,0 +1,108 @@
+main *{
+    word-break: break-all;
+}
+
+#sorting{
+    text-align: center;
+}
+
+#sorting *{
+    color: rgba(0, 0, 0, 0.8);
+    padding: 5px;
+    background-color: gainsboro;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    box-shadow: rgba(0, 0, 0, 0.279) 2px 2px 3px;
+}
+
+#sorting *:active{
+    box-shadow: none;
+}
+
+#sorting *:hover{
+    background-color: rgb(203, 203, 203);
+}
+
+#root{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+#root article{
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.71) 0px 0px 4px;
+    background-color: white;
+    width: min(84vw, 470px);
+    margin: 4px;
+}
+
+#root article img{
+    max-width: 100%;
+    height: auto;
+    object-fit:cover;
+}
+
+#root article *{
+    font-size: 1.1rem;
+}
+
+#root article div{
+    min-width: 120px;
+    max-width: 210px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+#root article div.productInfo > *{
+    margin-bottom: 2px;
+}
+
+#root article div button{
+    cursor: pointer;
+    width: 120px;
+    border: none;
+    border-radius: 6px;
+    padding: 8px;
+    color: azure;
+    background-color: Crimson;
+    background-color: #dc143c;
+    box-shadow: rgba(0, 0, 0, 0.545) 2px 2px 3px;
+}
+
+#root article div a{
+    margin-top: auto;
+    width: 40%;
+}
+
+#root article div button:hover{
+    color: black;
+    background-color: orange;
+}
+
+#root article div button:active{
+    box-shadow: none;
+}
+
+.OutOfStock::before{
+    content: "⬤";
+    color: red;
+    margin-right: 5px;
+}
+
+.notOutOfStock::before{
+    content: "⬤";
+    color: LawnGreen;
+    margin-right: 5px;
+}
+
+.mono{
+    font-family: monospace;
+}
