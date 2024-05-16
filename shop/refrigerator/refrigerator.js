@@ -8,10 +8,10 @@ fetch('../../products/products.json')
     .then(res => res.json())
     .then(data => {
         products = data;
-        drawProducts(data);
+        drawProducts();
     })
 
-function drawProducts(products){
+function drawProducts(){
     root.innerHTML = "";
     for (product of products){
         if(product.type === "refrigerator")
