@@ -12,8 +12,7 @@ body{
     background-color: #f1f1f1;
 }
 
-/*nav*/
-
+/*navmenu*/
 #up{
     display: flex;
     flex-flow: wrap;
@@ -27,18 +26,14 @@ body{
     top: 0;
     z-index: 1;
 }
-
 #up svg, #up img{
     width: 36.8px;
     height: 36.8px;
 }
-
 #up > *{
     display: inline-block;
-    
     display: block;
 }
-
 #index{
     margin-left: 6px;
     margin-right: 16px;
@@ -47,17 +42,11 @@ body{
     cursor: pointer;
     display: flex;
 }
-
-#index img{
-    margin-right: 10px;
-}
-
+#index img{margin-right: 10px;}
 #index *{
     font-size: 200%;
     color: white;
 }
-
-/*navmenu*/
 .navmenu{background-color: #3cb371;}
 .drop {padding: 16px;}
 .navelement {
@@ -79,8 +68,10 @@ body{
 }
 .dropdown-content a:hover {background-color: #ddd;}
 .navelement:hover .dropdown-content {display: block;}
-.navelement .drop:hover {background-color: #3e8e41;}
-.navelement .drop:hover {color: #ffffffe3;}
+.navelement .drop:hover {
+    background-color: #3e8e41;
+    color: #ffffffe3;
+}
 
 /* main */
 
